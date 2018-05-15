@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="new_post_toolbar" type="id">PostToolbar</item>
+    <item name="mainBottomNav" type="id">mainBottomNav</item>
+    <item name="mainbottomNav" type="id">mainbottomNav</item>
+</resources>
